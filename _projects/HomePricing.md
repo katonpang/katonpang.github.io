@@ -5,7 +5,7 @@ description: R Shiny App (Ames, Iowa neighborhoods)
 img: assets/img/House_Shiny_pic.jpg
 redirect: https://katonp.shinyapps.io/ResHomes/
 importance: 3
-category: Academic    
+category: academic    
 ---
 
 Every project has a beautiful feature showcase page.
