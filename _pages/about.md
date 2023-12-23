@@ -20,7 +20,7 @@ I am currently pursuing a graduate degree in Data Science at Southern Methodist 
 
 In the course of this career shift, I attained a Graduate Certificate in Software Design and development from the University of Washington. Throughout this academic endeavor, I developed proficiency in object-oriented programming and advanced algorithms using Java and C++. Furthermore, I demonstrated competence in SQL, effectively applying it within the MySQL database system.  
 
-Feel free to explore my completed projects!  
+Feel free to check out my completed projects!  
 
   
 {::comment}
