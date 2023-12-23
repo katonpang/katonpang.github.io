@@ -16,14 +16,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing a graduate degree in Data Science at
-Southern Methodist University in Dallas, Texas. Prior to this, I
-accumulated a decade of experience as an HVAC and plumbing engineer
-within the engineering consulting industry, before transitioning to the
-technical field. Since embarking on this career shift, I has acquired
-proficiency in object-oriented programming and advanced algorithms using
-Java and C++, as well as demonstrating proficiency in SQL and
-effectively applying it within the MySQL database system.
+I am currently pursuing a graduate degree in Data Science at Southern Methodist University in Dallas, Texas. Prior to this endeavor, I garnered a decade of experience as an HVAC and plumbing engineer within the engineering consulting industry before making a strategic transition to the technical field.  
+
+In the course of this career shift, I attained a Graduate Certificate in Software Design and development from the University of Washington. Throughout this academic endeavor, I developed proficiency in object-oriented programming and advanced algorithms using Java and C++. Furthermore, I demonstrated competence in SQL, effectively applying it within the MySQL database system.  
 
 Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
