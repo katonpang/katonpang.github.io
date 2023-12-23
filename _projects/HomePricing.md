@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
+title: Residential Homes Analysis - Ames, Iowa
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://katonp.shinyapps.io/ResHomes/
 importance: 3
 category: work
 ---
