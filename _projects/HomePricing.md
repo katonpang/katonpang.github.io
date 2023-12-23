@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Residential Homes Analysis - Ames, Iowa
-description: a project that redirects to another website
+title: Residential Homes Analysis
+description: R Shiny App (Ames, Iowa neighborhoods)
 img: assets/img/7.jpg
 redirect: https://katonp.shinyapps.io/ResHomes/
 importance: 3
