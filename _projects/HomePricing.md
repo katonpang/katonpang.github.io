@@ -2,7 +2,7 @@
 layout: page
 title: Residential Homes Analysis
 description: R Shiny App (Ames, Iowa neighborhoods)
-img: assets/img/House_Shiny_pic.png
+img: assets/img/House_Shiny_pic.jpg
 redirect: https://katonp.shinyapps.io/ResHomes/
 importance: 3
 category: work
