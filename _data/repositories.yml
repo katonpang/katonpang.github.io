@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - katonpang
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - katonpang/Case_Study_1
+  - katonpang/CaseStudy2DDS  
