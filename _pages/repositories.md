@@ -6,9 +6,12 @@ description:
 nav: true
 nav_order: 3
 ---
+
 {::comment} 
 Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
 {:/comment} 
+
+{::comment} 
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -34,6 +37,7 @@ Edit the `_data/repositories.yml` and change the `github_users` and `github_repo
 {% endfor %}
 {% endif %}
 {% endif %}
+{:/comment} 
 
 ## GitHub Repositories
 
