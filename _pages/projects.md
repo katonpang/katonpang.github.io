@@ -5,7 +5,7 @@ permalink: /projects/
 description: Data Science Portfolio 
 nav: true
 nav_order: 2
-display_categories: [academic, work1, fun1]
+display_categories: [academic, works]
 horizontal: false
 ---
 
