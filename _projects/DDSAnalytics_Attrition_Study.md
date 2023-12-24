@@ -3,7 +3,7 @@ layout: page
 title: Attrition Study  
 description: Frito Lay Attrition Analysis  
 img: assets/img/USA-Craft-Beer-Map.jpg
-importance: 1
+importance: 4
 category: academic   
 ---
 
