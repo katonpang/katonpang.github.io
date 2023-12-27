@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing a graduate degree in Data Science at Southern Methodist University in Dallas, Texas. Prior to this endeavor, I garnered a decade of experience as an HVAC and plumbing engineer within the engineering consulting industry before making a strategic transition to the technical field.  
+I am currently pursuing a graduate degree in Data Science at Southern Methodist University in Dallas, Texas. Prior to this endeavor, I garnered a decade of experience as an HVAC and plumbing engineer within the engineering consulting industry before making a transition to the technical field.  
 
-In the course of this career shift, I attained a Graduate Certificate in Software Design and development from the University of Washington. Throughout this academic endeavor, I developed proficiency in object-oriented programming and advanced algorithms using Java and C++. Furthermore, I demonstrated competence in SQL, effectively applying it within the MySQL database system.  
+In the course of this career shift, I attained a Graduate Certificate in Software Design and Development from the University of Washington. Throughout this academic endeavor, I developed proficiency in object-oriented programming and advanced algorithms in Java and C++. Furthermore, I demonstrated competence in SQL, effectively applying it within the MySQL database system.  
 
 Feel free to check out my completed projects!  
 
