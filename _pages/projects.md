@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: DS Projects
 permalink: /projects/
 description: Data Science Portfolio 
 nav: true
