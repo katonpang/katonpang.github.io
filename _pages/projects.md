@@ -1,8 +1,8 @@
 ---
 layout: page
-title: DS Projects
+title: Data Science Projects
 permalink: /projects/
-description: Data Science Portfolio 
+description: Analytics, machine learning, and business intelligence solutions 
 nav: true
 nav_order: 3
 display_categories: [academic, works]
