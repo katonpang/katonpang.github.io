@@ -4,7 +4,7 @@ permalink: /ai-portfolio/
 title: AI Portfolio
 description: GenAI & Agentic AI projects showcasing production-ready applications
 nav: true
-nav_order: 3
+nav_order: 2
 ---
 
 # GenAI & Agentic AI Portfolio
