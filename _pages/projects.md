@@ -4,7 +4,7 @@ title: Data Science Projects
 permalink: /projects/
 description: Analytics, machine learning, and business intelligence solutions 
 nav: true
-nav_order: 3
+nav_order: 2
 display_categories: [academic, works]
 horizontal: false
 ---
