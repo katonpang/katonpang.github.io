@@ -3,7 +3,7 @@ layout: page
 permalink: /ai-portfolio/
 title: AI Portfolio
 description: GenAI & Agentic AI projects showcasing production-ready applications
-nav: true
+nav: false
 nav_order: 2
 ---
 
